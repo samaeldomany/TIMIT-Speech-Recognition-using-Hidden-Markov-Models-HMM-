@@ -32,8 +32,6 @@ Requirements
 
 Ensure you have Python 3 installed. You can install the required dependencies using pip:
 
-Bash
-
 pip install numpy librosa soundfile kagglehub matplotlib seaborn hmmlearn scipy   
 
 Usage
