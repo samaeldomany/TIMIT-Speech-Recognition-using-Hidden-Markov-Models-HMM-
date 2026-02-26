@@ -1,8 +1,5 @@
 # TIMIT-Speech-Recognition-using-Hidden-Markov-Models-HMM-
 
-TIMIT Speech Recognition using Hidden Markov Models (HMM)
-=========================================================
-
 Overview
 --------
 
